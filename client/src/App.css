@@ -1,0 +1,10 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-hero-body{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
